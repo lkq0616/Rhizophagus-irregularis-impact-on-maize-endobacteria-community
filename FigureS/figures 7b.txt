@@ -1,0 +1,14 @@
+genus	IA	IAM
+Cupriavidus	134	19
+Paenibacillus	114	26
+Microscillaceae	64	13
+Streptomyces	120	17
+Rhizobacter	67	12
+Methyloversatilis	3	283
+Comamonadaceae	16	3869
+Comamonadaceae	31	214
+Bdellovibrio	10	48
+Ferrovibrio	23	113
+Devosia	24	165
+P3OB-42	10	94
+Oxalobacteraceae	17	180

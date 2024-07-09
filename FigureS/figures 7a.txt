@@ -1,0 +1,4 @@
+genus	IN	INM
+g__norank_f__Mitochondria	84	14
+
+

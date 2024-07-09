@@ -1,0 +1,6 @@
+Treatments	AMF colonization rate(%)	AMF intensity rate(%)	 AMF spore density (50g-1)
+CK	0.00±0.00e	0.00±0.00d	0.00±0.00c
+IN	36.84±0.10a	6.43±0.86a	5.33±1.25b
+INM	10.58±0.19d	0.17±0.01c	1.00±0.82c
+IA	34.37±0.17b	5.36±0.29b	27.00±2.16a
+IAM	31.55±0.27c	0.45±0.04c	2.00±1.63bc

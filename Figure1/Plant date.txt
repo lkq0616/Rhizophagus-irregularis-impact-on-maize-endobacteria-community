@@ -1,0 +1,6 @@
+Treatments	Plant height(cm)	Root height(cm)	Shoot fresh weight(g)	Root fresh weight(g)	Shoot dry weight(g)	Root dry weight(g)	Total chrolophyll（mg g-1）	Soluble sugar（mg g-1）
+CK	56.00±3.56b	39.00±7.87c	8.10±1.37b	3.39±1.06b	1.54±0.26b	0.30±0.10a	27.95±2.85b	14.62±0.21c
+IN	74.00±4.08ab	68.00±11.04a	17.63±2.18a	9.37±2.52ab	2.29±0.28ab	0.58±0.16a	33.54±1.78a	16.66±0.17b
+INM	78.00±5.10a	45.34±4.19bc	13.05±3.56ab	6.13±2.20ab	2.74±0.75ab	0.60±0.22a	30.72±1.88ab	10.01±0.03d
+IA	68.34±14.08ab	54.34±3.40ab	15.31±4.16a	7.16±2.19ab	2.60±0.17ab	0.57±0.17a	30.23±1.15ab	19.84±0.08a
+IAM	81.00±1.63a	48.34±1.25bc	16.98±0.97a	8.85±0.67ab	2.89±0.16a	0.69±0.05a	32.01±0.37ab	6.09±0.07e
